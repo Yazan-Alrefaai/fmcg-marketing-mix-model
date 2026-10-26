@@ -1,0 +1,17 @@
+# Environments and dependencies
+.venv
+deck/node_modules
+
+# Caches
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS and Office temporary files
+.DS_Store
+~$*
+
+# The dataset is private and not redistributed (see README)
+data/*.xlsx
+data/*.csv

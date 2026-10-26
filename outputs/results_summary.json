@@ -1,0 +1,24 @@
+{
+  "share_of_volume": {
+    "Base": 79.14,
+    "Weather": 20.47,
+    "Christmas week": -0.46,
+    "TV": 0.03,
+    "Online video": 0.07,
+    "Online partnership": 0.38,
+    "OOH": 0.37
+  },
+  "media_total_roi": 1.530909310498331,
+  "promo_lift_via_distribution": 0.08130205470101326,
+  "promo_incremental_share": 0.28375300101016526,
+  "scenarios": {
+    "Online partnership": {
+      "moved": 533718.668037,
+      "delta_revenue": 908047.8308176328
+    },
+    "OOH": {
+      "moved": 533718.668037,
+      "delta_revenue": 1046127.8528497999
+    }
+  }
+}
